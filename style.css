@@ -80,7 +80,7 @@ a:active, a:hover  #btn :hover{
     font-size: 3em;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
-.overview0 p, .pcomment p, .comment1 label, #showcase4 li, blockquote{
+.overview0 p, .pcomment p, .comment1 label, #showcase4 li{
     color: white;
     font-size: 2em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -138,4 +138,9 @@ a:active, a:hover  #btn :hover{
 
 ul{
     list-style: none;
+}
+
+blockquote{
+    margin: 0em;
+    padding: 0em;
 }
